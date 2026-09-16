@@ -1,4 +1,4 @@
-# 🎨 **Personalización y Optimización de Debian 13 (Trixie)**
+# 🎨 **Personalización y Optimización de Debian 13**
 
 El script realiza una serie de personalizaciones y optimizaciones en un sistema **Debian 13 (Trixie)**. El script mejora el rendimiento del sistema eliminando paquetes innecesarios y aplica una personalización que hace que el sistema sea más bonito a simple vista y más productivo.
 
