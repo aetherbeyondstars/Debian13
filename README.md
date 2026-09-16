@@ -41,7 +41,7 @@ Este script puede ser modificado por el usuario según sus necesidades:
 1. Descarga o clona el repositorio:
     ```sh
     git clone https://github.com/aetherbeyondstars/Debian12.git
-    cd Debian12
+    cd Debian13
     ```
 2. Otorga permisos de ejecución y ejecuta como superusuario:
     ```sh
