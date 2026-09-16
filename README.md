@@ -40,7 +40,7 @@ Este script puede ser modificado por el usuario según sus necesidades:
 
 1. Descarga o clona el repositorio:
     ```sh
-    git clone https://github.com/aetherbeyondstars/Debian12.git
+    git clone https://github.com/aetherbeyondstars/Debian13.git
     cd Debian13
     ```
 2. Otorga permisos de ejecución y ejecuta como superusuario:
