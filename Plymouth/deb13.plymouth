@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Deb13
+Description=Debian 13 Trixie boot splash theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/deb13
+ScriptFile=/usr/share/plymouth/themes/deb13/deb13.script
